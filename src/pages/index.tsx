@@ -82,30 +82,6 @@ export default function Home() {
 		width: 100%;
 	`;
 
-	const SearchContainer = styled.div`
-		width: 100%;
-		max-width: 598px;
-		display: flex;
-		border-radius: 50px;
-		align-items: center;
-		justify-content: center;
-		background-color: #565656;
-		padding-left: 20px;
-		padding-right: 20px;
-		margin-bottom: 40px;
-	`;
-
-	const Label = styled.label`
-		flex: 1;
-		padding: 16px;
-		/* px="8"; */
-		width: 100%;
-		/* color:"gray.800"; */
-		position: relative;
-		/* bgColor="gray.100; */
-		border-radius: 50%;
-	`;
-
 	const SubmitButton = styled.button`
 		background-color: transparent;
 		border: none;
