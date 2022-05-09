@@ -1,0 +1,148 @@
+{
+	"images": [
+		{
+			"id": 1,
+			"name": "fusca",
+			"slug": "fusca",
+			"src": "https://images.pexels.com/photos/9303874/pexels-photo-9303874.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+			"alt": "imagem de fusca azul",
+			"about": "O Fusca começou a ser vendido no Brasil em 1950. O carro vinha desmontado da Alemanha e não era montado pela Volkswagen, que ainda não havia se instalado no Brasil. A empresa responsável pela montagem era a Brasmotor. O modelo importado para o Brasil tinha o vidro traseiro dividido em dois. No ano de 1953 o Fusca deixou de ser montado pela Brasmotor e a Volkswagen assumiu a montagem do carro no Brasil, com peças vindas da Alemanha. O modelo produzido já era o que tinha janela traseira única, oval."
+		},
+		{
+			"id": 2,
+			"name": "Nave Espacial",
+			"slug": "nave-espacial",
+			"src": "https://images.pexels.com/photos/355906/pexels-photo-355906.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+			"alt": "Imagem de uma nave espacial da nasa",
+			"about": "O ônibus espacial (space shuttle) é um tipo de avião que decola verticalmente e é composto basicamente de uma cabine para a tripulação, um grande compartimento de carga, duas asas e três motores. Para decolar utiliza um enorme depósito de combustível e dois foguetes auxiliares. A altura do conjunto é de 56,14 m, o ônibus espacial tem 37,23 m de comprimento, envergadura de 23,79 m. A órbita de operação ocorre entre 185 e 643 km e a velocidade máxima do ônibus espacial é de 28.000 km/h. A cabine está dividida em dois níveis nos quais se podem acomodar de duas a oito pessoas. No primeiro nível estão os controles do veículo, o controle do braço mecânico, a comunicação e os assentos da tripulação para o lançamento e a reentrada na atmosfera terrestre. O segundo nível está destinado à tripulação (dormitórios, lugar para as refeições e asseio pessoal, etc.) e o local de onde se tem acesso ao compartimento de carga e à sala de pressurização (local do qual são preparadas as atividades fora da nave)."
+		},
+		{
+			"id": 3,
+			"name": "Toronto",
+			"slug": "toronto",
+			"src": "https://images.pexels.com/photos/1546836/pexels-photo-1546836.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+			"alt": "typicodsdase",
+			"about": "Toronto a maior cidade do canadá oronto é a capital da província de Ontário. Localizada na margem norte do Lago Ontário, é o centro da vida comercial, financeira, industrial e cultural do país. A cidade de Toronto propriamente dita possui, aproximadamente, 2,8 milhões de habitantes, com 6,1 milhões de habitantes na sua região metropolitana. Toronto é considerada uma das cidades mais multiculturais do mundo, sendo uma metrópole que atrai dezenas de milhares de imigrantes anualmente."
+		},
+		{
+			"id": 4,
+			"name": "tesla",
+			"slug": "tesla",
+			"src": "https://images.pexels.com/photos/3954401/pexels-photo-3954401.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+			"alt": "Imagem de um carro da tesla",
+			"about": "A Tesla teve sua origem em 2003, em São Franscisco, Califórnia, quando um grupo de engenheiros visionários, incluindo o renomado empresário Elon Musk, se reuniram para mostrarem ao mundo que era possível projetar e fabricar veículos totalmente elétricos. Apesar a atuação principal da empresa esteja direcionada na fabricação e distribuição de automóveis eletétricos, com a Tesla Motors, a companhia também atua em projetos de sustentabilidade envolvendo armazenamento de energia e a confecção de painéis solares, bem como na comercialização de componentes elétricos como baterias industriais de lítio-íon."
+		},
+		{
+			"id": 5,
+			"name": "voleyball",
+			"slug": "voleyball",
+			"src": "https://images.pexels.com/photos/6203644/pexels-photo-6203644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+			"alt": "Imagem de um homem jogando voleyball",
+			"about": "O vôlei foi criado em 1895, pelo americano William G. Morgan, então diretor de educação física da Associação Cristã de Moços (ACM) na cidade de Holyoke, em Massachusetts, nos Estados Unidos. O primeiro nome deste esporte que viria se tornar um dos maiores do mundo foi mintonette. Naquela época, o esporte da moda era o basquetebol, criado apenas quatro anos antes, mas que tivera um rápida difusão. Era, no entanto, um jogo muito cansativo para pessoas de idade. Por sugestão do pastor Lawrence Rinder, Morgan idealizou um jogo menos fatigante para os associados mais velhos da ACM e colocou uma rede semelhante à de tênis, a uma altura de 1,98 metros, sobre a qual uma câmara de bola de basquete era batida, surgindo assim o jogo de vôlei."
+		},
+		{
+			"id": 6,
+			"name": "Bailarina",
+			"slug": "bailarina",
+			"src": "https://images.pexels.com/photos/8934637/pexels-photo-8934637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+			"alt": "uma mulher dançando balllet",
+			"about": "O ballet clássico surgiu nas cortes italianas no século 16. O termo italiano balletto, que significa “dancinha, bailinho” deu origem a palavra francesa ballet. A dança surgiu durante o período renascentista, era apresentado em festas aristocráticas para entretenimento da nobreza. O primeiro espetáculo de ballet da história aconteceu em 1581, ele durava mais de cinco horas e era bem diferente do que conhecemos hoje: havia falas, poesia, canto e uma orquestra musical. Passou a ganhar maior destaque no século 17 durante o reinado de Luís XIV. O rei era apaixonado pela dança, ele também era bailarino. O rei participou de um espetáculo chamado “O Ballet Noturno da Realeza” onde  fez o papel de luz fertilizando a terra, assim ganhou o apelido de Rei Sol."
+		},
+		{
+			"id": 7,
+			"name": "parque",
+			"slug": "parque",
+			"src": "https://images.pexels.com/photos/2002339/pexels-photo-2002339.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+			"alt": "Roda gigante de um parque",
+			"about": "A roda-gigante ou roda panorâmica é uma atração típica dos parques de diversão. É formada por duas rodas paralelas que giram em torno do mesmo eixo, suspensas em duas torres verticais e sustentando em suas circunferências bancos oscilantes para duas ou mais pessoas."
+		},
+		{
+			"id": 8,
+			"name": "circo",
+			"slug": "circo",
+			"src": "https://images.pexels.com/photos/2002338/pexels-photo-2002338.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+			"alt": "Imagem de lona de circo",
+			"about": "O circo, como conhecemos hoje, com picadeiro, lona e palhaços, surgiu aproximadamente em 1770 com o inglês Philip Astley, um oficial da Cavalaria Britânica. Ele organizou, com normas militares, um espetáculo equestre, até então um esporte nobre, numa época em que os direitos da nobreza eram muito rígidos. O sucesso veio com o interesse da burguesia em aprender equitação. Após um tempo, Astley juntou saltimbancos, palhaços, equilibristas e saltadores no mesmo espetáculo. No século XIX, o primeiro circo atravessou o Atlântico e chegou aos Estados Unidos. No Brasil, as atrações circenses, com espetáculos itinerantes, chegaram pouco tempo depois. "
+		},
+		{
+			"id": 9,
+			"name": "palhaço",
+			"slug": "palhaco",
+			"src": "https://images.pexels.com/photos/3840380/pexels-photo-3840380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+			"alt": "Imagem de um palhaço",
+			"about": "O palhaço da forma como conhecemos atualmente, pelo que tudo indica, surgiu, aproximadamente, em 1758, na Inglaterra, através do trabalho de Philip Astley , oficial da cavalaria que organizava apresentação com homens, em pé, no dorso do cavalo. A partir daí, criou espetáculos em locais fechados e contratou também palhaços e equilibristas. Portanto, também esta é a noção mais próxima do circo e dos palhaços que temos hoje. Astley começou a difundir o circo moderno e, após convite para apresentar-se para o rei da França, abriu uma filial em Paris. Pouco mais tarde, a ideia se expande, chegando a alguns países da Europa como Suécia, Espanha, Alemanha e Rússia e, em cinquenta anos, o circo moderno já tinha se espalhado por todo o mundo!"
+		},
+		{
+			"id": 10,
+			"name": "disney",
+			"slug": "castelo-disney",
+			"src": "https://images.pexels.com/photos/2362002/pexels-photo-2362002.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+			"alt": "typicodsdase",
+			"about": "O Castelo da Cinderela no Magic Kingdom ficou pronto em Julho de 1971, após 18 meses de construção. A inauguração do parque foi logo depois, no dia 01 de outubro de 1971. Por muitos anos, foi o maior castelo dos parques Disney, até a construção do Enchanted Storybook Castle na Disneyland Shangai em 2016. Os 57,6 metros de altura do Castelo da Cinderela foi inspirado em vários castelos europeus do período entre o século 14 e 19, que Walt percorreu para conhecer um a um. A maior inspiração foi do Castelo de Neuschwanstein, da Bavária, na Alemanha, pertencente ao Rei Ludwig. Walt queria que ele fosse uma passagem de épocas medievais ao mundo de sonhos, por isso o Castelo na verdade é uma passagem a Fantasyland, a área dos contos de fadas do Magic Kingdom."
+		},
+		{
+			"id": 11,
+			"name": "estatua da liberdade",
+			"slug": "Estatua-da-liberdade",
+			"src": "https://images.pexels.com/photos/6431302/pexels-photo-6431302.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+			"alt": "typicodsdase",
+			"about": "A Estátua da Liberdade é um monumento da cidade de Nova York, considerada um Patrimônio Mundial da UNESCO, e, desde 2007, é também considerada uma das Sete Novas Maravilhas do Mundo. Localizada em uma pequena ilha na entrada do porto de Nova York,aLiberty Island (ilha da Liberdade),a Estátua da Liberdade foi um presente do povo francês aos estadunidenses em comemoração ao centenário de sua Independência, ou seja, em 1876. Uma batalha vencida pelos norte-americanos contra os OS Ingleses foi o motivo que levou os francesesa presentearem os Estados Unidos."
+		},
+		{
+			"id": 12,
+			"name": "playstation",
+			"slug": "playstation",
+			"src": "https://images.pexels.com/photos/3945688/pexels-photo-3945688.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+			"alt": "Homem jogando Playstation",
+			"about": "Tudo começou lá atrás, em 1995, com o lançamento do primeiro PlayStation, ou PSOne. O console tinha design elegante e seus jogos rodavam por meio de CDs, o que permitia processamento em 3D e som melhorado. O PSOne vendeu, em uma década, mais de 100 milhões de unidades no mundo. O PlayStation Controller, de 1994, ganhou quatro botões nos ombros (ao invés de apenas dois) e deu mais possibilidades de gameplay aos jogadores. O acessório foi sucedido pelo Dual Analog Controller, em 1997, e depois pelo original DualShock, também em 97."
+		},
+		{
+			"id": 13,
+			"name": "Ponte do broklyn",
+			"slug": "Ponte-do-broklyn",
+			"src": "https://images.pexels.com/photos/5627275/pexels-photo-5627275.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+			"alt": "typicodsdase",
+			"about": "A Ponte do Brooklyn é um símbolo histórico de Nova York e uma parte fundamental da cidade, já que cruza East River conectando Manhattan e Brooklyn. Vista diversas vezes no cinema, a ponte do Brooklyn se tornou uma das pontes mais famosas do mundo. Filmes como Manhattan, Os Embalos de Sábado à Noite, Godzilla ou Impacto Profundo exibiram essa obra arquitetônica do século XIX.  Ao finalizar sua construção em 1883, a ponte se tornou a ponte suspensa mais longa do mundo, com uma distância entre pilares de quase 500 metros. Na construção, que durou 13 anos, morreram 27 pessoas. A longitude total da ponte é de 1.825 metros. Cruzando a ponte do Brooklyn à noite, você terá uma das imagens mais características de Nova York, a dos edifícios de Manhattan iluminados."
+		},
+		{
+			"id": 14,
+			"name": "motocross",
+			"slug": "motocross",
+			"src": "https://images.pexels.com/photos/1430931/pexels-photo-1430931.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+			"alt": "typicodsdase",
+			"about": "Afinal, onde nasceu o Motocross? Voltando à Inglaterra no século XVIII, a forma como surgiu o motocross é muito próxima da invenção das motocicletas, pois desde os primeiros modelos desenvolvidos na Inglaterra, elas já eram usadas em pistas cross country.  Entretanto, o formato da modalidade ainda não era o que conhecemos hoje. A velocidade era reduzida, as manobras eram basicamente curvas mais ou menos fechadas.  Os pilotos eram protegidos por capacetes, quase que decorativos – imaginem o perigo que era, com a falta de segurança. Mas a motivação permanece apesar do passar do tempo: a busca pela adrenalina. A princípio, a competição internacional foi realizada na França, em 1939. Logo com ela veio a necessidade de padronizar as provas, regras e participações dos pilotos. Além disso, ainda foram necessários muitos anos, até que as corridas ficaram populares, essa popularidade veio somente nas décadas de 50 e 60. Porém, ainda limitadas ao continente europeu. "
+		},
+		{
+			"id": 15,
+			"name": "Kawasaki Ninja",
+			"slug": "Kawasaki-Ninja",
+			"alt": "moto",
+			"src": "https://images.pexels.com/photos/10185916/pexels-photo-10185916.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+			"about": "INSPIRADA NAS PISTAS. NASCIDA PARA AS RUAS. Uma autêntica sportbike como nenhuma outra motocicleta.Tudo graças a potência do novo motor bicilindrico de 399cc e um chassi estável e leve, que em conjunto com a embreagem assistida e deslizante, facilitam o controle da Ninja propiciando uma experiência de pilotagem bem confortável e divertida. Para completar, painel de instrumentos multifuncional, design inspirado na H2 em estilo supersport e duplo farol e lanterna traseira em LED, garantem o visual agressivo e imponente que só uma lendária Ninja tem."
+		},
+		{
+			"id": 16,
+			"name": "Ferrari-458",
+			"slug": "ferrari-458",
+			"src": "https://images.pexels.com/photos/7959154/pexels-photo-7959154.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+			"alt": "ferrari 458 vermelha",
+			"about": "A Ferrari 458 é um dos modelos mais conhecidos da marca italiana e mesmo sem estar em produção desde 2015, é um dos mais populares e vistos nas ruas. Substituta da Ferrari F430, a 458 surgiu com um visual bem mais expressivo e menos clássico que a anterior, incorporando linhas agressivas e uma configuração de performance realmente notável. O bólido de Maranello surgiu também como sendo o primeiro carro de produção seriada da Ferrari não a ter transmissão manual como opção. A 458 abandonou algo que sempre foi valorizado em carros da marca italiana, especialmente em modelos com foco mais específicos que os grandes V12, mais comuns com transmissão automática."
+		},
+		{
+			"id": 17,
+			"name": "Monalisa",
+			"slug": "monalisa",
+			"src": "https://images.pexels.com/photos/3957982/pexels-photo-3957982.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+			"alt": "typicodsdase",
+			"about": "A técnica de composição da Mona Lisa faz dela uma das obras mais estudadas na história da arte e pelos artistas aprendizes. É apreciada pelo seu enquadramento muito moderno como um retrato que poderíamos fazer hoje em dia. Mais sutilmente, efeitos de ótica são criados pelo posicionamento dos olhos da jovem mulher e seu sorriso discreto. Alguns dizem que temos a impressão de sermos constantemente observados pela Mona Lisa, qualquer que seja a posição de onde se olha. Esta brincadeira demonstra os conhecimentos científicos e anatômicos de Leonardo da Vinci. Quanto ao famoso sorriso da Mona Lisa, as testemunhas contam que um grupo de músicos tocava durante as horas de trabalho do pintor para que ela mantivesse esse ar feliz. O fundo é também um caso a se estudar. A técnica do sfumato é utilizada para criar uma perspectiva que se funde de maneira suave."
+		},
+		{
+			"id": 18,
+			"name": "Skatista",
+			"slug": "skatista",
+			"src": "https://images.pexels.com/photos/4726801/pexels-photo-4726801.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+			"alt": "typicodsdase",
+			"about": "Skate é um esporte radical muito praticado atualmente. Consiste em, realizar manobras deslizando sobre o solo (com ou sem obstáculos) equilibrando-se sobre o skate. O skate é uma prancha (shape) que possui dois eixos (trucks), rolamentos e quatro pequenas rodas. Mais do que um esporte, o skate tornou-se um estilo de vida. Os skatistas usam roupas características, tem suas próprias gírias e costumes. .O skate surgiu na Califórnia, Estados Unidos, nos anos 60. Foi inventado por alguns surfistas, como uma brincadeira para um dia no qual não havia ondas no mar. Eles utilizaram rodinhas de patins. Já em 1965 foram fabricados os primeiros skates e realizados os primeiros campeonatos. Mas o esporte só ganhou o mundo nos anos 90, quando o norte-americano Tony Hawk realizou uma revolução com seus aéreos e flips. Tony Hawk é considerado, até hoje, o maior skatista de todos os tempos."
+		}
+	]
+}
